@@ -1,3 +1,3 @@
 # my-repo
 My frist school repo. 
-Trying out Github
+Understanding Github and comminting gits
